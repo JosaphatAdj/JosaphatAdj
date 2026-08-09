@@ -6,6 +6,16 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JosaphatAdj&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="Josaphat's Trophies" />
+  </a>
+</p>
+
+---
+
 ## 🎓 About Me
 
 - 🎓 **Mathematical Engineering Student (Master II)** at **ENSGMM** (National School of Mathematical Engineering & Modeling, Benin).
@@ -18,17 +28,28 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### **Artificial Intelligence & Data Science**
-`TensorFlow` · `Scikit-Learn` · `PINNs` · `Agentic AI (Google ADK / A2A)` · `RAG` · `NumPy` · `SciPy` · `Pandas` · `Matplotlib`
+### **AI, Data & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-### **Applied Mathematics & Modeling**
-`Numerical Analysis (FEM/FDM)` · `Dynamic Systems (Epidemiological ODEs)` · `Convex & Non-Convex Optimization` · `Probability & Statistics` · `BLAS/LAPACK`
+### **Applied Mathematics & Simulation**
+`Numerical Analysis (FEM/FDM)` · `Dynamic Systems (Epidemiological ODEs)` · `Convex & Non-Convex Optimization` · `Probability & Statistics` · `BLAS/LAPACK` · `MATLAB` · `R`
 
-### **Programming & Web Development**
-`Python (Advanced)` · `MATLAB` · `R` · `C` · `FastAPI` · `React / Next.js`
+### **Backend & Web Development**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-### **DevOps & Scientific Tools**
-`Linux` · `Docker` · `Git` · `LaTeX` · `HPC Environments`
+### **DevOps & Environment**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
@@ -55,6 +76,14 @@
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosaphatAdj&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 💡 Tech Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Tech Quote" />
 </p>
 
 ---
