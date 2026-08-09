@@ -11,6 +11,7 @@
 - 🎓 **Mathematical Engineering Student (Master II)** at **ENSGMM** (National School of Mathematical Engineering & Modeling, Benin).
 - 🏆 **Gold Prize Winner** at the **Water4Future (W4F) 2026 International Hackathon** (UNESCO ICIREWARD Montpellier).
 - 🤖 Passionate about **Applied Mathematics**, **Deep Learning (TensorFlow)**, **Agentic AI**, **PINNs (Physics-Informed Neural Networks)**, and **RAG Systems**.
+- 🔬 Co-author of a research paper on the global dynamics of epidemiological SIS models (under peer review at *Abstract and Applied Analysis*).
 - 💡 Self-taught AI practitioner bridging the gap between theoretical mathematical rigor and scalable software/AI solutions.
 
 ---
@@ -47,12 +48,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosaphatAdj&show_icons=true&theme=tokyonight&count_private=true" alt="Josaphat's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosaphatAdj&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosaphatAdj&theme=tokyonight&hide_border=true" alt="Josaphat's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosaphatAdj&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
