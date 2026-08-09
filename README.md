@@ -6,16 +6,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JosaphatAdj&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="Josaphat's Trophies" />
-  </a>
-</p>
-
----
-
 ## 🎓 About Me
 
 - 🎓 **Mathematical Engineering Student (Master II)** at **ENSGMM** (National School of Mathematical Engineering & Modeling, Benin).
@@ -69,21 +59,20 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Trophies
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JosaphatAdj&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="Josaphat's Trophies" />
+  </a>
+</p>
+<br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosaphatAdj&theme=tokyonight&hide_border=true" alt="Josaphat's GitHub Streak" />
 </p>
+<br>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosaphatAdj&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-## 💡 Tech Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Tech Quote" />
 </p>
 
 ---
